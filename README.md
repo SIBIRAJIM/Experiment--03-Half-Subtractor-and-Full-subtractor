@@ -1,3 +1,7 @@
+## NAME : SIBIRAJI M
+## REGISTER NUMBER : 212223050048
+
+
 # Experiment--03-Half-Subtractor-and-Full-subtractor
 ## Implementation-of-Half-subtractor-and-Full-subtractor-circuit
 ## AIM:
@@ -33,11 +37,7 @@ Write the detailed procedure here
 
 
 ## Program:
-/*
-Program to design a half subtractor and full subtractor circuit and verify its truth table in quartus using Verilog programming.
-Developed by: 
-RegisterNumber:  
-*/
+ 
 
 ## Output:
 
